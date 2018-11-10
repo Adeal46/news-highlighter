@@ -1,4 +1,4 @@
-#!/home/adil/Documents/news-highlighter/virtual/bin/python2
+#!/home/adil/Documents/news-highlighter/virtual/bin/python3.6
 
 # -*- coding: utf-8 -*-
 import re
